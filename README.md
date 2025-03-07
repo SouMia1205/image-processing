@@ -37,7 +37,7 @@ The project does not rely on external libraries for image manipulation, except f
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/image-processing.git
+git clone https://github.com/SouMia1205/image-processing.git
 
 cd image-processing
 
