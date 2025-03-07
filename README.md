@@ -36,11 +36,15 @@ The project does not rely on external libraries for image manipulation, except f
 ⚙️ Installation & Setup
 
 1️⃣ Clone the repository
+
 git clone https://github.com/your-username/image-processing.git
+
 cd image-processing
 
 2️⃣ Install dependencies
+
 pip install pillow matplotlib
 
 3️⃣ Run the program
+
 python main.py
