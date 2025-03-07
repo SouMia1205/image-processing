@@ -1,6 +1,7 @@
 # Image Processing with Histogram Analysis
 This project is a simple image processing tool that performs various transformations on an image, including:
 📖 Description 
+
 ✅ Grayscale conversion
 
 ✅ Brightness adjustment (increase & decrease)
